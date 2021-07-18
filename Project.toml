@@ -1,0 +1,13 @@
+name = "FluidIntonation"
+uuid = "ba2aeaba-ffe5-4340-8f62-a420c3c3c983"
+authors = ["glutton "]
+version = "0.1.0"
+
+[deps]
+FunctionalCollections = "de31a74c-ac4f-5751-b3fd-e18cd04993ca"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+MIDI = "f57c4921-e30c-5f49-b073-3f2f2ada663e"
+Match = "7eb4fadd-790c-5f42-8a69-bfa0b872bfbf"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+Transducers = "28d57a85-8fef-5791-bfe6-a80928e7c999"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
